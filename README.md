@@ -28,10 +28,10 @@ This README presents my skills, projects, and interests in a clear, professional
 
 ## 📂 Featured Projects
 
-| Project         | Description                                      |
-|-----------------|--------------------------------------------------|
-| **BestStack**   | Personal curated tech stack repository            |
-| **HoaFiscal**   | Contributor to DougMclain’s HoaFiscal project     |
+| Project         | Description                                      | Link                                                    |
+|-----------------|--------------------------------------------------|---------------------------------------------------------|
+| **BestStack**   | Personal curated tech stack repository            | [GitHub: R0H1T-K/beststack](https://github.com/R0H1T-K/beststack) |
+| **HoaFiscal**   | Contributor to DougMclain’s HoaFiscal project     | [GitHub: dougmclain/hoa_fiscal](https://github.com/dougmclain/hoa_fiscal) |
 
 ---
 
