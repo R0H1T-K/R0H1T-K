@@ -1,4 +1,4 @@
-# R0H1T-K — Junior Software Developer
+# R0H1T-K — Software Developer
 
 Welcome to my developer profile.  
 This README presents my skills, projects, and interests in a clear, professional format.
